@@ -1,0 +1,25 @@
+Age of Empires II: The Age of Kings|9|74699|23
+Oregon Trail|9|74698|-1
+Monopoly|12|93374|-1
+The Longest Journey|10|45546|12
+Tomb Raider: The Last Revelation|10|81982|-1
+Lemmings|10|81983|9
+Sim Theme Park|10|81984|9
+Command & Conquer: Tiberian Sun|17|82315|-1
+The 7th Guest|9|50731|-1
+Star Wars: Dark Forces|20|43947|3
+You Don't Know Jack|18|90611|-1
+Doom|15|54715|-1
+Planescape: Torment|13|26580|12
+Diablo|13|29524|1
+SimCity|15|96260|-1
+Dungeon Keeper 2|14|26686|-1
+Who Wants To Be a Millionaire|8|54670|-1
+Syndicate|80|67361|-1
+Theme Hospital|17|89550|-1
+Riven: The Sequel to Myst|30|10241|-1
+Myst|7|17287|-1
+Tomb Raider II|6|58595|-1
+SimCity 2000|10|28944|1
+Half-Life|40|68763|-1
+Warcraft II: Tides of Darkness|13|91208|-1
